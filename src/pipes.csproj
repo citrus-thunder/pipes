@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup>
+  <PackageId>MRWilliams.Pipes</PackageId>
+  <Version>1.0.0</Version>
+  <Authors>M. R. Williams</Authors>
+  <Title>Pipes</Title>
+  <PackageDescription>Procedural, flexible data manipulation made easy</PackageDescription>
+  <PackageTags>data;middleware;</PackageTags>
+  <RepositoryUrl>https://github.com/citrus-thunder/pipes</RepositoryUrl>
+  <ProjectUrl>https://citrus-thunder.github.io/pipes/</ProjectUrl>
+  <PackageReadmeFile>readme.md</PackageReadmeFile>
+  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\readme.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>

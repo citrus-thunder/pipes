@@ -1,0 +1,242 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Pipes
+  name: Pipes
+  href: api/Pipes.html
+  commentId: N:Pipes
+  fullName: Pipes
+  nameWithType: Pipes
+- uid: Pipes.InlineSegment`2
+  name: InlineSegment<I, O>
+  href: api/Pipes.InlineSegment-2.html
+  commentId: T:Pipes.InlineSegment`2
+  name.vb: InlineSegment(Of I, O)
+  fullName: Pipes.InlineSegment<I, O>
+  fullName.vb: Pipes.InlineSegment(Of I, O)
+  nameWithType: InlineSegment<I, O>
+  nameWithType.vb: InlineSegment(Of I, O)
+- uid: Pipes.InlineSegment`2.Does(Pipes.InlineSegment{`0,`1}.PipeAction{`0,`1,Action})
+  name: Does(InlineSegment<I, O>.PipeAction<I, O, Action>)
+  href: api/Pipes.InlineSegment-2.html#Pipes_InlineSegment_2_Does_Pipes_InlineSegment__0__1__PipeAction__0__1_Action__
+  commentId: M:Pipes.InlineSegment`2.Does(Pipes.InlineSegment{`0,`1}.PipeAction{`0,`1,Action})
+  name.vb: Does(InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+  fullName: Pipes.InlineSegment<I, O>.Does(Pipes.InlineSegment<I, O>.PipeAction<I, O, Action>)
+  fullName.vb: Pipes.InlineSegment(Of I, O).Does(Pipes.InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+  nameWithType: InlineSegment<I, O>.Does(InlineSegment<I, O>.PipeAction<I, O, Action>)
+  nameWithType.vb: InlineSegment(Of I, O).Does(InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+- uid: Pipes.InlineSegment`2.Does*
+  name: Does
+  href: api/Pipes.InlineSegment-2.html#Pipes_InlineSegment_2_Does_
+  commentId: Overload:Pipes.InlineSegment`2.Does
+  isSpec: "True"
+  fullName: Pipes.InlineSegment<I, O>.Does
+  fullName.vb: Pipes.InlineSegment(Of I, O).Does
+  nameWithType: InlineSegment<I, O>.Does
+  nameWithType.vb: InlineSegment(Of I, O).Does
+- uid: Pipes.InlineSegment`2.PipeAction`3
+  name: InlineSegment<I, O>.PipeAction<In, Out, Action>
+  href: api/Pipes.InlineSegment-2.PipeAction-3.html
+  commentId: T:Pipes.InlineSegment`2.PipeAction`3
+  name.vb: InlineSegment(Of I, O).PipeAction(Of In, Out, Action)
+  fullName: Pipes.InlineSegment<I, O>.PipeAction<In, Out, Action>
+  fullName.vb: Pipes.InlineSegment(Of I, O).PipeAction(Of In, Out, Action)
+  nameWithType: InlineSegment<I, O>.PipeAction<In, Out, Action>
+  nameWithType.vb: InlineSegment(Of I, O).PipeAction(Of In, Out, Action)
+- uid: Pipes.InlineSegment`2.Process(`0@,`1@,Action)
+  name: Process(ref I, ref O, Action)
+  href: api/Pipes.InlineSegment-2.html#Pipes_InlineSegment_2_Process__0___1__Action_
+  commentId: M:Pipes.InlineSegment`2.Process(`0@,`1@,Action)
+  name.vb: Process(ByRef I, ByRef O, Action)
+  fullName: Pipes.InlineSegment<I, O>.Process(ref I, ref O, Action)
+  fullName.vb: Pipes.InlineSegment(Of I, O).Process(ByRef I, ByRef O, Action)
+  nameWithType: InlineSegment<I, O>.Process(ref I, ref O, Action)
+  nameWithType.vb: InlineSegment(Of I, O).Process(ByRef I, ByRef O, Action)
+- uid: Pipes.InlineSegment`2.Process*
+  name: Process
+  href: api/Pipes.InlineSegment-2.html#Pipes_InlineSegment_2_Process_
+  commentId: Overload:Pipes.InlineSegment`2.Process
+  isSpec: "True"
+  fullName: Pipes.InlineSegment<I, O>.Process
+  fullName.vb: Pipes.InlineSegment(Of I, O).Process
+  nameWithType: InlineSegment<I, O>.Process
+  nameWithType.vb: InlineSegment(Of I, O).Process
+- uid: Pipes.Pipe
+  name: Pipe
+  href: api/Pipes.Pipe.html
+  commentId: T:Pipes.Pipe
+  fullName: Pipes.Pipe
+  nameWithType: Pipe
+- uid: Pipes.Pipe.Takes*
+  name: Takes
+  href: api/Pipes.Pipe.html#Pipes_Pipe_Takes_
+  commentId: Overload:Pipes.Pipe.Takes
+  isSpec: "True"
+  fullName: Pipes.Pipe.Takes
+  nameWithType: Pipe.Takes
+- uid: Pipes.Pipe.Takes``2
+  name: Takes<I, O>()
+  href: api/Pipes.Pipe.html#Pipes_Pipe_Takes__2
+  commentId: M:Pipes.Pipe.Takes``2
+  name.vb: Takes(Of I, O)()
+  fullName: Pipes.Pipe.Takes<I, O>()
+  fullName.vb: Pipes.Pipe.Takes(Of I, O)()
+  nameWithType: Pipe.Takes<I, O>()
+  nameWithType.vb: Pipe.Takes(Of I, O)()
+- uid: Pipes.Pipe`2
+  name: Pipe<I, O>
+  href: api/Pipes.Pipe-2.html
+  commentId: T:Pipes.Pipe`2
+  name.vb: Pipe(Of I, O)
+  fullName: Pipes.Pipe<I, O>
+  fullName.vb: Pipes.Pipe(Of I, O)
+  nameWithType: Pipe<I, O>
+  nameWithType.vb: Pipe(Of I, O)
+- uid: Pipes.Pipe`2.In(`0@,`1@)
+  name: In(ref I, ref O)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_In__0___1__
+  commentId: M:Pipes.Pipe`2.In(`0@,`1@)
+  name.vb: In(ByRef I, ByRef O)
+  fullName: Pipes.Pipe<I, O>.In(ref I, ref O)
+  fullName.vb: Pipes.Pipe(Of I, O).In(ByRef I, ByRef O)
+  nameWithType: Pipe<I, O>.In(ref I, ref O)
+  nameWithType.vb: Pipe(Of I, O).In(ByRef I, ByRef O)
+- uid: Pipes.Pipe`2.In*
+  name: In
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_In_
+  commentId: Overload:Pipes.Pipe`2.In
+  isSpec: "True"
+  fullName: Pipes.Pipe<I, O>.In
+  fullName.vb: Pipes.Pipe(Of I, O).In
+  nameWithType: Pipe<I, O>.In
+  nameWithType.vb: Pipe(Of I, O).In
+- uid: Pipes.Pipe`2.Out*
+  name: Out
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Out_
+  commentId: Overload:Pipes.Pipe`2.Out
+  isSpec: "True"
+  fullName: Pipes.Pipe<I, O>.Out
+  fullName.vb: Pipes.Pipe(Of I, O).Out
+  nameWithType: Pipe<I, O>.Out
+  nameWithType.vb: Pipe(Of I, O).Out
+- uid: Pipes.Pipe`2.Out``1(`0@)
+  name: Out<T>(ref I)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Out__1__0__
+  commentId: M:Pipes.Pipe`2.Out``1(`0@)
+  name.vb: Out(Of T)(ByRef I)
+  fullName: Pipes.Pipe<I, O>.Out<T>(ref I)
+  fullName.vb: Pipes.Pipe(Of I, O).Out(Of T)(ByRef I)
+  nameWithType: Pipe<I, O>.Out<T>(ref I)
+  nameWithType.vb: Pipe(Of I, O).Out(Of T)(ByRef I)
+- uid: Pipes.Pipe`2.Process(`0@,`1@,Action)
+  name: Process(ref I, ref O, Action)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Process__0___1__Action_
+  commentId: M:Pipes.Pipe`2.Process(`0@,`1@,Action)
+  name.vb: Process(ByRef I, ByRef O, Action)
+  fullName: Pipes.Pipe<I, O>.Process(ref I, ref O, Action)
+  fullName.vb: Pipes.Pipe(Of I, O).Process(ByRef I, ByRef O, Action)
+  nameWithType: Pipe<I, O>.Process(ref I, ref O, Action)
+  nameWithType.vb: Pipe(Of I, O).Process(ByRef I, ByRef O, Action)
+- uid: Pipes.Pipe`2.Process*
+  name: Process
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Process_
+  commentId: Overload:Pipes.Pipe`2.Process
+  isSpec: "True"
+  fullName: Pipes.Pipe<I, O>.Process
+  fullName.vb: Pipes.Pipe(Of I, O).Process
+  nameWithType: Pipe<I, O>.Process
+  nameWithType.vb: Pipe(Of I, O).Process
+- uid: Pipes.Pipe`2.Then(Pipes.InlineSegment{`0,`1}.PipeAction{`0,`1,Action})
+  name: Then(InlineSegment<I, O>.PipeAction<I, O, Action>)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Then_Pipes_InlineSegment__0__1__PipeAction__0__1_Action__
+  commentId: M:Pipes.Pipe`2.Then(Pipes.InlineSegment{`0,`1}.PipeAction{`0,`1,Action})
+  name.vb: Then(InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+  fullName: Pipes.Pipe<I, O>.Then(Pipes.InlineSegment<I, O>.PipeAction<I, O, Action>)
+  fullName.vb: Pipes.Pipe(Of I, O).Then(Pipes.InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+  nameWithType: Pipe<I, O>.Then(InlineSegment<I, O>.PipeAction<I, O, Action>)
+  nameWithType.vb: Pipe(Of I, O).Then(InlineSegment(Of I, O).PipeAction(Of I, O, Action))
+- uid: Pipes.Pipe`2.Then(Pipes.PipeSegment{`0,`1})
+  name: Then(PipeSegment<I, O>)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Then_Pipes_PipeSegment__0__1__
+  commentId: M:Pipes.Pipe`2.Then(Pipes.PipeSegment{`0,`1})
+  name.vb: Then(PipeSegment(Of I, O))
+  fullName: Pipes.Pipe<I, O>.Then(Pipes.PipeSegment<I, O>)
+  fullName.vb: Pipes.Pipe(Of I, O).Then(Pipes.PipeSegment(Of I, O))
+  nameWithType: Pipe<I, O>.Then(PipeSegment<I, O>)
+  nameWithType.vb: Pipe(Of I, O).Then(PipeSegment(Of I, O))
+- uid: Pipes.Pipe`2.Then*
+  name: Then
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Then_
+  commentId: Overload:Pipes.Pipe`2.Then
+  isSpec: "True"
+  fullName: Pipes.Pipe<I, O>.Then
+  fullName.vb: Pipes.Pipe(Of I, O).Then
+  nameWithType: Pipe<I, O>.Then
+  nameWithType.vb: Pipe(Of I, O).Then
+- uid: Pipes.Pipe`2.Then``1
+  name: Then<T>()
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Then__1
+  commentId: M:Pipes.Pipe`2.Then``1
+  name.vb: Then(Of T)()
+  fullName: Pipes.Pipe<I, O>.Then<T>()
+  fullName.vb: Pipes.Pipe(Of I, O).Then(Of T)()
+  nameWithType: Pipe<I, O>.Then<T>()
+  nameWithType.vb: Pipe(Of I, O).Then(Of T)()
+- uid: Pipes.Pipe`2.Then``1(``0@)
+  name: Then<T>(out T)
+  href: api/Pipes.Pipe-2.html#Pipes_Pipe_2_Then__1___0__
+  commentId: M:Pipes.Pipe`2.Then``1(``0@)
+  name.vb: Then(Of T)(ByRef T)
+  fullName: Pipes.Pipe<I, O>.Then<T>(out T)
+  fullName.vb: Pipes.Pipe(Of I, O).Then(Of T)(ByRef T)
+  nameWithType: Pipe<I, O>.Then<T>(out T)
+  nameWithType.vb: Pipe(Of I, O).Then(Of T)(ByRef T)
+- uid: Pipes.PipeSegment
+  name: PipeSegment
+  href: api/Pipes.PipeSegment.html
+  commentId: T:Pipes.PipeSegment
+  fullName: Pipes.PipeSegment
+  nameWithType: PipeSegment
+- uid: Pipes.PipeSegment.Takes*
+  name: Takes
+  href: api/Pipes.PipeSegment.html#Pipes_PipeSegment_Takes_
+  commentId: Overload:Pipes.PipeSegment.Takes
+  isSpec: "True"
+  fullName: Pipes.PipeSegment.Takes
+  nameWithType: PipeSegment.Takes
+- uid: Pipes.PipeSegment.Takes``2
+  name: Takes<I, O>()
+  href: api/Pipes.PipeSegment.html#Pipes_PipeSegment_Takes__2
+  commentId: M:Pipes.PipeSegment.Takes``2
+  name.vb: Takes(Of I, O)()
+  fullName: Pipes.PipeSegment.Takes<I, O>()
+  fullName.vb: Pipes.PipeSegment.Takes(Of I, O)()
+  nameWithType: PipeSegment.Takes<I, O>()
+  nameWithType.vb: PipeSegment.Takes(Of I, O)()
+- uid: Pipes.PipeSegment`2
+  name: PipeSegment<I, O>
+  href: api/Pipes.PipeSegment-2.html
+  commentId: T:Pipes.PipeSegment`2
+  name.vb: PipeSegment(Of I, O)
+  fullName: Pipes.PipeSegment<I, O>
+  fullName.vb: Pipes.PipeSegment(Of I, O)
+  nameWithType: PipeSegment<I, O>
+  nameWithType.vb: PipeSegment(Of I, O)
+- uid: Pipes.PipeSegment`2.Process(`0@,`1@,Action)
+  name: Process(ref I, ref O, Action)
+  href: api/Pipes.PipeSegment-2.html#Pipes_PipeSegment_2_Process__0___1__Action_
+  commentId: M:Pipes.PipeSegment`2.Process(`0@,`1@,Action)
+  name.vb: Process(ByRef I, ByRef O, Action)
+  fullName: Pipes.PipeSegment<I, O>.Process(ref I, ref O, Action)
+  fullName.vb: Pipes.PipeSegment(Of I, O).Process(ByRef I, ByRef O, Action)
+  nameWithType: PipeSegment<I, O>.Process(ref I, ref O, Action)
+  nameWithType.vb: PipeSegment(Of I, O).Process(ByRef I, ByRef O, Action)
+- uid: Pipes.PipeSegment`2.Process*
+  name: Process
+  href: api/Pipes.PipeSegment-2.html#Pipes_PipeSegment_2_Process_
+  commentId: Overload:Pipes.PipeSegment`2.Process
+  isSpec: "True"
+  fullName: Pipes.PipeSegment<I, O>.Process
+  fullName.vb: Pipes.PipeSegment(Of I, O).Process
+  nameWithType: PipeSegment<I, O>.Process
+  nameWithType.vb: PipeSegment(Of I, O).Process
