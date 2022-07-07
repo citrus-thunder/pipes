@@ -4,6 +4,11 @@ Pipes is a procedural data transformation library inspired by web request middle
 
 Pipes seeks to provide an abstract implementation of middleware-like procedural data processing that can be used in any data transformation context.
 
+## Installation
+Pipes can be installed via its [Nuget package](https://www.nuget.org/packages/MRWilliams.Pipes/), or by cloning its [Github repository](https://github.com/citrus-thunder/pipes) and including it in your project directly.
+
+Pipes depends on no other packages and only consists of a few small source files making it easy to drop directly into your project.
+
 ## Usage
 To use a Pipe, you must provide it with an input type and an output type, then define which steps are to be executed in the pipeline via `PipeSegment` instances.
 
