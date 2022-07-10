@@ -1,3 +1,7 @@
+using System;
+
+using Pipes;
+
 public class IntMultiplier : PipeSegment<int, int>
 {
 	public IntMultiplier() : base()

@@ -1,14 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
+    <TargetFrameworks>net5.0;net6.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <PropertyGroup>
   <PackageId>MRWilliams.Pipes</PackageId>
-  <Version>1.0.0</Version>
+  <Version>1.0.1</Version>
   <Authors>M. R. Williams</Authors>
   <Title>Pipes</Title>
   <PackageDescription>Procedural, flexible data manipulation made easy</PackageDescription>

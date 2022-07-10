@@ -1,3 +1,7 @@
+using System;
+
+using Pipes;
+
 public class StringRepeater : PipeSegment<string, string>
 {
 	public StringRepeater()

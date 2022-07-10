@@ -1,3 +1,7 @@
+using System;
+
+using Pipes;
+
 public class IntAdder : PipeSegment<int, int>
 {
 	public IntAdder() : base()

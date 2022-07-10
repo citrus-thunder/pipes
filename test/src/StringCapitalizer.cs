@@ -1,3 +1,7 @@
+using System;
+
+using Pipes;
+
 public class StringCapitalizer : PipeSegment<string, string>
 {
 	public enum CapitalizationMode

@@ -1,3 +1,9 @@
+using System;
+
+using Xunit;
+
+using Pipes;
+
 public class PipeTests
 {
 	[Fact]

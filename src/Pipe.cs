@@ -49,7 +49,7 @@ namespace Pipes
 
 		private void RunSegment(int index)
 		{
-			if (index >= _segments.Count())
+			if (index >= _segments.Count)
 			{
 				return;
 			}
